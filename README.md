@@ -6,5 +6,5 @@
 
 - Open the terminal and type `python driver.py` to play the game.
 	- The intelligent agent always makes the first move.
-	- The user needs to click on the corresponding column to put his/her coin in it.
+	- The user needs to click on the corresponding column to put the coin in that column.
 	- Whenever the game ends, click on RESTART to reset the game or EXIT to quit.
