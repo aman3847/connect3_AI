@@ -1,8 +1,8 @@
-## connect3_AI
+## Connect 3
 - A mini-version of the connect 4 game implemented using Python 2 and Turtle Graphics.
 - The intelligent agent uses Minimax Algorithm or Alpha-Beta Pruning based on user's choice.
 
-## Running the code
+## Playing the Game
 
 - Open the terminal and type `python driver.py` to play the game.
 	- The intelligent agent always makes the first move.
