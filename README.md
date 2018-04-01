@@ -12,4 +12,4 @@
 	
 ## Analysis Tab
 
--The descrption of the various values in the Analysis tab are as follows
+- The descrption of the various values in the Analysis tab are as follows
